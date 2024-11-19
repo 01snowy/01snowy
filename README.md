@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @01snowy
-- 👀 I’m interested in: jailbreaking
+- 👀 I’m interested in: jailbreaking, linux ricing, and vrchat avatar creation.
 - 🌱 I’m currently learning: html and python
 - 💞️ I’m looking to collaborate on: nothing im a lone wolf when it comes to my projects
 - 📫 You can reach me on discord: 0l_snowy
