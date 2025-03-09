@@ -1,3 +1,4 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/850894487755554816)](https://discord.com/users/850894487755554816)
 - 👋 Hi, I’m @01snowy
 - 👀 I’m interested in: jailbreaking, linux ricing, and vrchat avatar creation.
 - 🌱 I’m currently learning: html and python
