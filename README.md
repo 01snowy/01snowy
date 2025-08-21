@@ -1,5 +1,5 @@
 # 💫 About Me:
-A dumb vibecoder xdd<br>Im working on a selfhosted blog <br>I'm slow and have cats<br>
+A dumb vibecoder xdd<br>Im working on a selfhosted blog <br>I'm slow and I have cats :3 <br>
 
 
 # 💻 Tech Stack:
