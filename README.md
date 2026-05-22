@@ -1,5 +1,5 @@
 # 💫 About Me:
-A dumb vibecoder xdd<br>Im working on a selfhosted blog <br>I'm slow and I have cats :3 <br>
+Check out my about me to see more about me [Here.](https://0lsnowy.xyz) <br>Im working on a custom fork of the stt app curses!!! check it out its in my pinned repos <br>I have cats. :3 <br>
 
 
 # 💻 Tech Stack:
