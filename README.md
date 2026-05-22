@@ -1,5 +1,5 @@
 # 💫 About Me:
-Check out my about me page [Here.](https://0lsnowy.xyz) . <br>Im working on a custom fork of the stt app curses!!! check it out its in my pinned repos <br>I have cats. :3 <br>
+Check out my about me page [Here.](https://0lsnowy.xyz) . <br>Im working on a custom fork of the stt app curses!!! Check it out its in my pinned repos. <br>I have cats. :3 <br>
 
 
 # 💻 Tech Stack:
